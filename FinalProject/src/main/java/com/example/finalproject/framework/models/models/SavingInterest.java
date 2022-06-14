@@ -1,4 +1,4 @@
-package com.demo.framework.models;
+package com.example.finalproject.framework.models.models;
 
 public class SavingInterest implements AccountInterest{
     @Override

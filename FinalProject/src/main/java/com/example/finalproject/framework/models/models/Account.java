@@ -1,4 +1,4 @@
-package com.demo.framework.models;
+package com.example.finalproject.framework.models.models;
 
 import java.util.ArrayList;
 import java.util.List;

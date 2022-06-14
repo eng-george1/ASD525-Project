@@ -1,4 +1,4 @@
-package com.demo.framework.models;
+package com.example.finalproject.framework.models.models;
 
 public class Personal extends Account{
 
